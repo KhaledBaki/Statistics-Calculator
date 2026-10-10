@@ -1,4 +1,4 @@
-## Statistics_Java
+## Statistics Calculator
 - This website is designed to help fascilitate the tedious statistical calculations.
 - Simple to use.
 - Descriptive messages under each function listed on the website.
